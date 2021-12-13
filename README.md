@@ -1,5 +1,5 @@
 # ScoreSaberWidget
-ScoreSaber Scriptable widget for iOS that shows a selected player's stats
+ScoreSaber Scriptable widget for iOS that shows a selected player's stats and top or latest play. (Latest play file coming soon)
 
 To set things up: 
 - Add a Scriptable widget to your homescreen (the large size)
