@@ -6,3 +6,5 @@ To set things up:
 - Copy a user ID from their ScoreSaber URL (the string of numbers in the URL)
 - Long press the widget and hit "Edit Widget"
 - Set "Parameter" to their user ID
+
+Have questions? Join the discord and feel free to ask: https://discord.gg/hBuqdKArR7
