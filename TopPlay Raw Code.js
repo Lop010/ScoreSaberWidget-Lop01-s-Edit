@@ -67,7 +67,7 @@ const locales = {
   play_big: "Play Count: ",
   score_big: "Total Score: ",
   acc_big: "Average Accuracy: ",
-  cr_big: "Country Rank:"
+  cr_big: "Country Rank:",
   ranking_small: "Rank: #",
   pp_small: "PP",
   play_small: "Play's",
