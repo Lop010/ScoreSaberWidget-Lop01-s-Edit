@@ -6,5 +6,11 @@ To set things up:
 - Copy a user ID from their ScoreSaber URL (the string of numbers in the URL)
 - Long press the widget and hit "Edit Widget"
 - Set "Parameter" to their user ID
-
+Why this fork?
+-I like it
+-Personal Prefrence
+-IDK
+-Better big size (2/1)
+-Thats it really
+-Black background
 Have questions? Join the discord and feel free to ask: https://discord.gg/hBuqdKArR7
