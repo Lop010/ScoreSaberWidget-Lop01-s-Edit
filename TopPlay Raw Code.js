@@ -55,9 +55,11 @@ const denyah1 = "https://cdn.discordapp.com/attachments/730982832893198388/91980
 const denyah_i = await new Request(denyah1)
 const denyah = await denyah_i.loadImage()
 
+songname.addspacer(null)
 let songnam = resScore.playerScores[0].leaderboard.songName
 const songi = await new Request(songnam)
 const songname = await songi
+songname.addspacer(null)
 
 const graphRect = new Rect(120, 338, 540, 300)
 
