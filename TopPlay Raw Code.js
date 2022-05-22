@@ -169,11 +169,6 @@ drawTextR("DM Raz0rBeam with instructions on how to get rid of this", pntYah, Co
   if(config.widgetFamily == "medium"){
     let l1 = new Point(416, 0)
     let l2 = new Point(416, 500)
-    drawLine(l1, l2, 3, Color.gray())
-  } else {
-  let l1 = new Point(416, 10)
-  let l2 = new Point(416, 290)
-  drawLine(l1, l2, 3, Color.gray())
 }
 //Song Name
     let songnRect = new Rect(440, 235, 400, 400)
