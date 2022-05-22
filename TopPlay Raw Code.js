@@ -67,12 +67,12 @@ const locales = {
   play_big: "Play Count: ",
   score_big: "Total Score: ",
   acc_big: "Average Accuracy: ",
-  ranking_small: "Rank: #",
-  pp_small: "",
-  play_small: "",
-  score_small: "",
-  acc_small: "",
   cr_big: "Country Rank:"
+  ranking_small: "Rank: #",
+  pp_small: "PP",
+  play_small: "Play's",
+  score_small: "Score",
+  acc_small: "Acc",
 }
 
 let widgetSize = "big"
