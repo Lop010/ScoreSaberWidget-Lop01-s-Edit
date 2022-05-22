@@ -110,7 +110,7 @@ Script.complete()
 
 function createWidget() {
   let w = new ListWidget()
-  w.backgroundColor = new Color("#6a4b7a", 0.4)
+  w.backgroundColor = new Color("#333333", 0.4)
 
   
   let headerStack = w.addStack()
