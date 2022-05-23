@@ -1,7 +1,7 @@
 // HUGE THANK YOU TO CKOSMIC FOR THE ORIGINAL SCRIPT
 
-//Background color
-//replace
+//Background color change the numbers to the color you want
+//Tip. Heres a nice website for finding color codes.  https://htmlcolorcodes.com/
 bgcolor="333333"
 var bgcolor
 
