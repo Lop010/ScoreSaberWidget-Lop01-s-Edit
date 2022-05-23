@@ -1,5 +1,10 @@
 // HUGE THANK YOU TO CKOSMIC FOR THE ORIGINAL SCRIPT
 
+//Background color
+//replace
+bgcolor="333333"
+var bgcolor
+
 let user_id = args.widgetParameter;
 
 const api_url = "https://scoresaber.com"
@@ -110,7 +115,7 @@ Script.complete()
 
 function createWidget() {
   let w = new ListWidget()
-  w.backgroundColor = new Color("#333333", 0.4)
+  w.backgroundColor = new Color(bgcolor, 0.4)
 
   
   let headerStack = w.addStack()
