@@ -9,17 +9,9 @@ To set things up:
 
 Why this fork?:
 
+-Easier to change bg color
+
+-Nicer medium sized widget
 
 -I like it
-
--Personal Prefrence
-
--IDK
-
--Better big size (2/1)
-
--Thats it really
-
--Black background
-
 Have questions? Join the discord and feel free to ask: https://discord.gg/hBuqdKArR7
