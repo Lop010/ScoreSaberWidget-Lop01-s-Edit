@@ -1,9 +1,11 @@
 // HUGE THANK YOU TO CKOSMIC FOR THE ORIGINAL SCRIPT
 
-//Background color change the numbers to the color you want
-//Tip. Heres a nice website for finding color codes.  https://htmlcolorcodes.com/
+//Background color change the numbers to the color you want, Same for textcolor
+//Tip: Heres a nice website for finding color codes.  https://htmlcolorcodes.com/
 bgcolor="333333"
+textcolor="ffffff"
 var bgcolor
+var textcolor
 
 let user_id = args.widgetParameter;
 
@@ -145,7 +147,7 @@ function createWidget() {
 } else {
   titleElement = headerStack.addText(res.name)
  }
-  titleElement.textColor = new Color("#ffffff", 1)
+  titleElement.textColor = new Color("textcolor", 1)
   titleElement.textOpacity = 1
   titleElement.font = Font.mediumRoundedSystemFont(18)
   titleElement.lineLimit = 1
